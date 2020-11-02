@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapFiltres", "BitmapFiltres\BitmapFiltres.csproj", "{B693D6A1-B0C3-49AF-A38F-69E065467DB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B693D6A1-B0C3-49AF-A38F-69E065467DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B693D6A1-B0C3-49AF-A38F-69E065467DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B693D6A1-B0C3-49AF-A38F-69E065467DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B693D6A1-B0C3-49AF-A38F-69E065467DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2E25FC2-16FF-49A2-9878-480B2BF74193}
+	EndGlobalSection
+EndGlobal

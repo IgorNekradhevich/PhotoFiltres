@@ -1,0 +1,9 @@
+C:\Users\Игорь\source\repos\BitmapFiltres\BitmapFiltres\bin\Debug\BitmapFiltres.exe.config
+C:\Users\Игорь\source\repos\BitmapFiltres\BitmapFiltres\bin\Debug\BitmapFiltres.exe
+C:\Users\Игорь\source\repos\BitmapFiltres\BitmapFiltres\bin\Debug\BitmapFiltres.pdb
+C:\Users\Игорь\source\repos\BitmapFiltres\BitmapFiltres\obj\Debug\BitmapFiltres.csprojAssemblyReference.cache
+C:\Users\Игорь\source\repos\BitmapFiltres\BitmapFiltres\obj\Debug\BitmapFiltres.Form1.resources
+C:\Users\Игорь\source\repos\BitmapFiltres\BitmapFiltres\obj\Debug\BitmapFiltres.Properties.Resources.resources
+C:\Users\Игорь\source\repos\BitmapFiltres\BitmapFiltres\obj\Debug\BitmapFiltres.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\BitmapFiltres\BitmapFiltres\obj\Debug\BitmapFiltres.exe
+C:\Users\Игорь\source\repos\BitmapFiltres\BitmapFiltres\obj\Debug\BitmapFiltres.pdb
